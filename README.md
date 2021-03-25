@@ -3,6 +3,8 @@ Hot dog image classifiers
 
 This repo is created for using on colab notebook for university project hot_dog/not_hot_dog: https://colab.research.google.com/drive/16aS-kiqgxyGxw3jPp5H9lj6eLRHgHMGa#scrollTo=BlJxzLkbALkp
 
+Kaggle competition: https://www.kaggle.com/c/hotdogornot/
+
 ## Prerequisites
 * Python3.5+
 * CUDA 10.1
