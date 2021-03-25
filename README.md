@@ -33,7 +33,7 @@ The provided table shows comparative analysys. Test accuracy (0.3 of full train 
 
 \** All VGG16 was pre-trained on ImageNet.
 
-#### see submissions:
+## see submissions:
 
 | Name      | Private score | Public score|
 |-----------|---------:|--------:|
