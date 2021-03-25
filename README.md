@@ -31,9 +31,9 @@ The provided table shows comparative analysys. Test accuracy (0.3 of full train 
 \* All VGG16 was pre-trained ImageNet.
 
 #### see submissions:
-* `submission.scv` for [svc_model_vgg16](test_labels/prediction_svc_model_vgg16/submission.scv) -> []
-* `submission.scv` for [xgb_model_vgg16](test_labels/prediction_xgb_model_vgg16/submission.scv) -> []
-* `submission.scv` for [fast_ai_resnet50](test_labels/prediction_fast_ai_resnet50/submission.scv) -> []
+* `submission.scv` for [svc_model_vgg16](test_labels/prediction_svc_model_vgg16/submission.csv)
+* `submission.scv` for [xgb_model_vgg16](test_labels/prediction_xgb_model_vgg16/submission.csv)
+* `submission.scv` for [fast_ai_resnet50](test_labels/prediction_fast_ai_resnet50/submission.csv)
 
 | Name      | Public score | Private score|
 |-----------|---------:|--------:|
